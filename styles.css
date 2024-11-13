@@ -1,0 +1,23 @@
+body{
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+
+}
+.post{
+    width: 500px;
+    height: auto;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+}
+.post_header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+};
+img{
+    width: 100px;
+}
